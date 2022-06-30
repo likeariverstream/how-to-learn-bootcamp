@@ -1,6 +1,8 @@
 .video__iframe {
-margin-bottom: -60px;
+  margin-bottom: -60px;
+  border: 0;
 }
+
 .video__iframe:nth-child(1) {
   margin-right: 20px;
 }
