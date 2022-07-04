@@ -1,13 +1,9 @@
 .table__text {
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-}
-
-.table__text:nth-child(3) {
-  margin-top: 20px;
-}
-
-.table__text:nth-child(7) {
-  margin-top: 20px;
+  padding-top: 20px ;
 }

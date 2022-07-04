@@ -1,3 +1,4 @@
 .video__iframes {
+  display: flex;
   margin: 50px auto auto;
 }

@@ -1,8 +1,13 @@
 .two-columns__paragraph {
-  display: block;
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 30px;
 }
 
-.two-columns__paragraph:nth-child(2) {
-  margin-top: 30px;
-  margin-bottom: 30px;
+.two-columns__paragraph:last-child {
+  margin-bottom: 0px;
 }

@@ -1,6 +1,11 @@
 .table__heading {
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
 }

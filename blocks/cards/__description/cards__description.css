@@ -1,4 +1,7 @@
 .cards__description {
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
   line-height: 23px;
   font-size: 18px;
   font-weight: normal;
