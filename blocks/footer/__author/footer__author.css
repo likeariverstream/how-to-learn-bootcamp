@@ -1,9 +1,5 @@
 .footer__author {
-  margin-block: 0;
-  margin-inline: 0;
-  padding-inline: 0;
-  display: block;
-  margin-left: 0px;
+  margin: 0;
   margin-top: 18px;
   margin-bottom: 18px;
   align-self: flex-start;

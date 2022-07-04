@@ -1,12 +1,10 @@
 .table {
-  margin-block: 0;
-  margin-inline: 0;
-  padding-inline: 0;
+  margin: 0;
+  padding: 0;
   width: 1100px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-top: 0px;
   margin-left: auto;
   margin-right: auto;
   list-style-type: none;
