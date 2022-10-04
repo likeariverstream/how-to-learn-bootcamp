@@ -2,6 +2,6 @@
 Посвящен методикам обучения. 
 Статичная верстка с использованием HTML и CSS и первый проект на курсе "Фронтенд-разработчик Bootcamp".
 Для того, чтобы ознакомиться с проектом, можно пройти по ссылке ниже
-**vercel.com**
+**Vercel**
 
-[https://how-to-learn-bootcamp.vercel.app/] (https://)
+* [Ссылка на Vercel](https://how-to-learn-bootcamp.vercel.app/) 
